@@ -1,0 +1,6 @@
+{
+  "name": "Melozing's Corner",
+  "description": "A single-page hero section with a fullscreen looping background video, glassmorphic navigation, and cinematic typography.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
